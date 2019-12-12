@@ -4,6 +4,8 @@
 Requirements:
 rails '6.0.0'
 ruby '2.6.5'
+react '16.12.0'
+
 ## Important
 
 ## Dependencies
